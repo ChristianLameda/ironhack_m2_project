@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Formula 1 Data Analysis Dashboard* </div>
+# **Formula 1 Data Analysis Dashboard** </div>
 ![Imagen](https://www.newsauto.it/wp-content/uploads/2017/11/logo-formula-1-f1-2018.jpg)
 
 ---
@@ -36,7 +36,7 @@
 5. Experiment with different analyses and discover interesting insights about Formula 1.
 
 &nbsp;
-## 🎯 **OContributions and Improvements**
+## 🎯 **Contributions and Improvements**
 * TIf you have suggestions, improvements, or encounter any issues with the dashboard, feel free to open an issue in this repository. Your contributions are welcome!
 
 &nbsp;
