@@ -10,7 +10,7 @@
 &nbsp;
 
 ## **Data Model** ##
-![Imagen](https://ibb.co/yf89CKd)
+![Imagen](https://imgur.com/a/pf8kT6Y)
 
 ---
 
