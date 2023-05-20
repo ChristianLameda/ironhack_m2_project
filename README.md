@@ -10,7 +10,7 @@
 &nbsp;
 
 ## **Data Model** ##
-![Imagen](https://imgur.com/a/pf8kT6Y)
+![Imagen2](https://github.com/ChristianLameda/ironhack_m2_project/blob/master/f1_db_diagram.png)
 
 ---
 
