@@ -9,6 +9,11 @@
 
 &nbsp;
 
+## **Data Model** ##
+![Imagen](https://ibb.co/yf89CKd)
+
+---
+
 ## 💻 **Key Features:** ##
 
 * Interactive visualization of Formula 1 data in the form of charts, tables, and maps.
